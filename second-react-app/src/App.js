@@ -1,13 +1,6 @@
-function App (){
-  return (
-    <>
-    <h1>Hello</h1>
-    <h1> Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-      mollitia exercitationem veritatis harum illum accusantium earum laborum
-      atque natus a qui repudiandae sapiente quae similique, impedit dolor, eius
-      facere laboriosam. </h1>
-    </>
-  )
+function App(){
+  let jsx1=<h1>Hello Universe</h1>
+  return jsx1
 }
 
 export default App;
